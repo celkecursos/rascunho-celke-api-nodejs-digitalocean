@@ -75,3 +75,4 @@
 {"date":"2023-12-16T15:13:11.752Z","id":7,"level":"info","message":"Perfil visualizado.","userId":7}
 {"date":"2023-12-16T15:13:25.756Z","level":"info","message":"Listar situação.","userId":7}
 {"date":"2023-12-16T15:13:44.335Z","level":"info","message":"Token recuperar senha inválido."}
+{"date":"2024-03-10T01:28:39.737Z","level":"warn","message":"Erro na conexão com banco de dados. SequelizeConnectionRefusedError"}
